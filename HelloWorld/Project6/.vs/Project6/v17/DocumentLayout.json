@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\HelloWorld\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926BD5CE-CAC9-4AEE-A1B9-5EF1BC3EDC8A}|Project6\\Project6.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\HelloWorld\\Project6\\Project6\\lec7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{926BD5CE-CAC9-4AEE-A1B9-5EF1BC3EDC8A}|Project6\\Project6.vcxproj|solutionrelative:Project6\\lec7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lec7.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\HelloWorld\\Project6\\Project6\\lec7.c",
+              "RelativeDocumentMoniker": "Project6\\lec7.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\HelloWorld\\Project6\\Project6\\lec7.c*",
+              "RelativeToolTip": "Project6\\lec7.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T00:59:29.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

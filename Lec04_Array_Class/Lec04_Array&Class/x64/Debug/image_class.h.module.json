@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Image_Class.h.obj",
+            "outputs": [
+                "C:\\Users\\gyeon\\OneDrive\\Desktop\\data-structure-lab-2026-4\\Lec04_Array&Class\\Lec04_Array&Class\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\gyeon\\OneDrive\\Desktop\\data-structure-lab-2026-4\\Lec04_Array&Class\\Lec04_Array&Class\\x64\\Debug\\Image_Class.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Image_Class.h",
+                    "source-path": "c:\\users\\gyeon\\onedrive\\desktop\\data-structure-lab-2026-4\\lec04_array&class\\lec04_array&class\\image_class.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
