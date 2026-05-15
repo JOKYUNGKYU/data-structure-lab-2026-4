@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Music.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\Music.h",
-              "RelativeDocumentMoniker": "Lec04_Class Example\\Music.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\Music.h",
-              "RelativeToolTip": "Lec04_Class Example\\Music.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T01:03:22.565Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -49,10 +36,9 @@
               "RelativeDocumentMoniker": "Lec04_Class Example\\Rectangle.h",
               "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\Rectangle.h",
               "RelativeToolTip": "Lec04_Class Example\\Rectangle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:20:21.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T00:20:21.132Z"
             },
             {
               "$type": "Document",
@@ -64,7 +50,19 @@
               "RelativeToolTip": "Lec04_Class Example\\Pet.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:37:34.957Z",
+              "WhenOpened": "2026-04-03T00:37:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\Music.h",
+              "RelativeDocumentMoniker": "Lec04_Class Example\\Music.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\Music.h",
+              "RelativeToolTip": "Lec04_Class Example\\Music.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-03T01:03:22.565Z",
               "EditorCaption": ""
             },
             {
@@ -75,10 +73,9 @@
               "RelativeDocumentMoniker": "Lec04_Class Example\\main.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-4\\Lec04_Class Example\\Lec04_Class Example\\main.cpp*",
               "RelativeToolTip": "Lec04_Class Example\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-03T00:19:27.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T00:19:27.846Z"
             }
           ]
         }

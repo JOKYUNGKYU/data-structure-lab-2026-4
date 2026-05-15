@@ -2,71 +2,34 @@
 C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,13): error C2059: 구문 오류: ')'
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,15): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,14): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,15): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,14): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
 C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(46,23): error C2061: 구문 오류: 식별자 'sting'
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(41,9): error C2079: 'newMusic'은(는) 정의되지 않은 class 'Music'을(를) 사용합니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(55,15): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(41,17): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(55,48): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-      C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(41,17):
-      이니셜라이저에 요소가 너무 많습니다.
   
-C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,13): error C2665: 'std::vector<Music,std::allocator<Music>>::push_back': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(36,44): error C2512: 'std::vector': 사용할 수 있는 적절한 기본 생성자가 없습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(921,23):
-      'void std::vector<Music,std::allocator<Music>>::push_back(_Ty &&)'일 수 있습니다.
-          with
-          [
-              _Ty=Music
-          ]
-          C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,13):
-          'void std::vector<Music,std::allocator<Music>>::push_back(_Ty &&)': 인수 1을(를) 'int'에서 '_Ty &&'(으)로 변환할 수 없습니다.
-          with
-          [
-              _Ty=Music
-          ]
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,23):
-              원인: 'int'에서 '_Ty'(으)로 변환할 수 없습니다.
-          with
-          [
-              _Ty=Music
-          ]
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,23):
-              정의되지 않은 형식 'Music'을(를) 사용했습니다.
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,7):
-              'Music' 선언을 참조하십시오.
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(917,23):
-      또는       'void std::vector<Music,std::allocator<Music>>::push_back(const _Ty &)'
-          with
-          [
-              _Ty=Music
-          ]
-          C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,13):
-          'void std::vector<Music,std::allocator<Music>>::push_back(const _Ty &)': 인수 1을(를) 'int'에서 'const _Ty &'(으)로 변환할 수 없습니다.
-          with
-          [
-              _Ty=Music
-          ]
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,23):
-              원인: 'int'에서 'const _Ty'(으)로 변환할 수 없습니다.
-          with
-          [
-              _Ty=Music
-          ]
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,23):
-              정의되지 않은 형식 'Music'을(를) 사용했습니다.
-              C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,7):
-              'Music' 선언을 참조하십시오.
-      C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,13):
-      인수 목록 '(int)'을(를) 일치시키는 동안
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(429,7):
+      'std::vector' 선언을 참조하십시오.
+  
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(41,9): error C2146: 구문 오류: ';'이(가) 'newMusic' 식별자 앞에 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(41,9): error C3861: 'newMusic': 식별자를 찾을 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(42,23): error C2065: 'newMusic': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
 C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(48,19): error C2027: 정의되지 않은 형식 'Music'을(를) 사용했습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
@@ -98,6 +61,13 @@ C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Clas
       'Music' 선언을 참조하십시오.
   
 C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\main.cpp(41,54): error C2027: 정의되지 않은 형식 'Music'을(를) 사용했습니다.
+      C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,7):
+      'Music' 선언을 참조하십시오.
+  
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\main.cpp(48,2): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\main.cpp(51,32): error C2065: 'myservice': 선언되지 않은 식별자입니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\main.cpp(52,6): error C2065: 'arsitsResult': 선언되지 않은 식별자입니다.
+C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\main.cpp(55,26): error C2027: 정의되지 않은 형식 'Music'을(를) 사용했습니다.
       C:\Users\user\Documents\data-structure-lab-2026-4\Lec04_Class Example\Lec04_Class Example\Music.h(8,7):
       'Music' 선언을 참조하십시오.
   
