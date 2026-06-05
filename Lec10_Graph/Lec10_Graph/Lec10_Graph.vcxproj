@@ -128,8 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AdjMatGraph.h" />
-    <ClCompile Include="Name.cpp" />
-    <ClCompile Include="SrchAMGraph.h" />
+    <ClCompile Include="소스.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeapNode.h" />
+    <ClInclude Include="MinHeap.h" />
+    <ClInclude Include="VertexSets.h" />
+    <ClInclude Include="WGraph.h" />
+    <ClInclude Include="WGraphMST.h" />
+    <ClInclude Include="WGraphPrim.h" />
+    <ClInclude Include="WGraphDijkstra.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
