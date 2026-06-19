@@ -1,6 +1,336 @@
 ﻿  AdjMatGraph.h
-  Name.cpp
-C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\Name.cpp(3,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  SrchAMGraph.h
+  소스.cpp
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraph.h(25,30): warning C4473: 'fscanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraph.h(25,30):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraph.h(25,30):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraph.h(25,30):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraph.h(19,20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\VertexSets.h(3,9): warning C4005: 'MAX_VTXS': 매크로 재정의
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(5,9):
+      'MAX_VTXS'의 이전 정의를 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(6,26): error C3861: 'selected': 식별자를 찾을 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(6,42): error C3861: 'dist': 식별자를 찾을 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(6,20): error C2062: 예기치 않은 'bool' 형식입니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(6,47): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(6,47): error C2059: 구문 오류: '}'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,3): error C2059: 구문 오류: 'for'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,17): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,21): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,21): error C2059: 구문 오류: '<'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,30): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,29): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,29): error C2086: 'int v': 재정의
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,19):
+      'v' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,30): error C2059: 구문 오류: '++'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(9,32): error C2059: 구문 오류: ')'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(10,43): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(10,43): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(14,3): error C2059: 구문 오류: 'return'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(15,2): error C2059: 구문 오류: '}'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(15,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(16,19): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(16,19): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(39,1): error C2059: 구문 오류: '<L_GRAMMAR_end_class>'
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(11,23): error C2597: 비정적 멤버 'AdjMatGraph::size'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(11,23):
+      'AdjMatGraph::size' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(11,23): error C3867: 'AdjMatGraph::size': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(11,23): error C2568: '<': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,8): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,8):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,8): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,8): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,26): error C2597: 비정적 멤버 'WGraphDijkstra::found'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,26):
+      'WGraphDijkstra::found' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,26): error C3867: 'WGraphDijkstra::found': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(12,26): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(13,11): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(13,11):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(13,11): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(13,11): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(19,23): error C2597: 비정적 멤버 'AdjMatGraph::size'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(19,23):
+      'AdjMatGraph::size' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(19,23): error C3867: 'AdjMatGraph::size': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(19,23): error C2568: '<': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,18): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,18):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,18): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,18): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,11):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(20,11):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%5d'에 필요합니다.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(25,23): error C2597: 비정적 멤버 'AdjMatGraph::size'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(25,23):
+      'AdjMatGraph::size' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(25,23): error C3867: 'AdjMatGraph::size': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(25,23): error C2568: '<': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(26,4): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(26,4):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(26,4): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(26,4): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(26,14): error C2352: 'AdjMatGraph::getEdge': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(16,10):
+      'AdjMatGraph::getEdge' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(27,4): error C2597: 비정적 멤버 'WGraphDijkstra::found'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(27,4):
+      'WGraphDijkstra::found' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(27,4): error C3867: 'WGraphDijkstra::found': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(27,4): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(29,3): error C2597: 비정적 멤버 'WGraphDijkstra::found'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(29,3):
+      'WGraphDijkstra::found' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(29,3): error C3867: 'WGraphDijkstra::found': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(29,3): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(30,3): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(30,3):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(30,3): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(30,3): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(31,23): error C2597: 비정적 멤버 'AdjMatGraph::size'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(31,23):
+      'AdjMatGraph::size' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(31,23): error C3867: 'AdjMatGraph::size': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(31,23): error C2568: '<': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(33,4): error C2352: 'WGraphDijkstra::printDistance': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(18,7):
+      'WGraphDijkstra::printDistance' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(34,12): error C2352: 'WGraphDijkstra::chooseVertex': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(8,6):
+      'WGraphDijkstra::chooseVertex' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(35,4): error C2597: 비정적 멤버 'WGraphDijkstra::found'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(35,4):
+      'WGraphDijkstra::found' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(35,4): error C3867: 'WGraphDijkstra::found': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(35,4): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(36,24): error C2597: 비정적 멤버 'AdjMatGraph::size'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(36,24):
+      'AdjMatGraph::size' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(36,24): error C3867: 'AdjMatGraph::size': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(36,24): error C2568: '<': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(37,9): error C2597: 비정적 멤버 'WGraphDijkstra::found'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(37,9):
+      'WGraphDijkstra::found' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(37,9): error C3867: 'WGraphDijkstra::found': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(37,9): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,10): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,10):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,10): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,10): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,20): error C2352: 'AdjMatGraph::getEdge': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(16,10):
+      'AdjMatGraph::getEdge' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,36): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,36):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,36): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(38,36): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,7): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,7):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,7): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,7): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,17): error C2597: 비정적 멤버 'WGraphDijkstra::dist'에 대한 참조가 잘못되었습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,17):
+      'WGraphDijkstra::dist' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,17): error C3867: 'WGraphDijkstra::dist': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,17): error C2568: '[': 함수 오버로드를 확인할 수 없습니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphDijkstra.h(39,27): error C2352: 'AdjMatGraph::getEdge': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '소스.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(16,10):
+      'AdjMatGraph::getEdge' 선언을 참조하십시오.
+  
+C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\소스.cpp(14,7): error C2039: 'Prim': 'WGraphPrim'의 멤버가 아닙니다.
+      C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\WGraphPrim.h(4,7):
+      'WGraphPrim' 선언을 참조하십시오.
+  
   코드를 생성하고 있습니다...
-  Lec10_Graph.vcxproj -> C:\Users\user\Desktop\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\Lec10_Graph.exe
